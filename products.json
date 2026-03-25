@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Áo Cardigan Nữ Phiên Bản Đen",
+      "price": 56,
+      "image": "images/home/product1.jpg",
+      "category": "mens",
+      "badge": "new"
+    },
+    {
+      "id": 2,
+      "name": "Áo Polo Nam Kẻ Sọc",
+      "price": 56,
+      "image": "images/home/product2.jpg",
+      "category": "womens",
+      "badge": null
+    },
+    {
+      "id": 3,
+      "name": "Váy Ôm Body Đen",
+      "price": 56,
+      "image": "images/home/product3.jpg",
+      "category": "mens",
+      "badge": null
+    },
+    {
+      "id": 4,
+      "name": "Váy Dự Tiệc Sang Trọng",
+      "price": 56,
+      "image": "images/home/product4.jpg",
+      "category": "mens",
+      "badge": null
+    },
+    {
+      "id": 5,
+      "name": "Áo Len Tay Dài Nữ",
+      "price": 56,
+      "image": "images/home/product5.jpg",
+      "category": "mens",
+      "badge": "sale"
+    },
+    {
+      "id": 6,
+      "name": "Áo Thun Nữ Basic",
+      "price": 56,
+      "image": "images/home/product6.jpg",
+      "category": "womens",
+      "badge": null
+    }
+  ]
+}
