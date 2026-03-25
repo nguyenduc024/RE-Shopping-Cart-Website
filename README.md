@@ -56,25 +56,16 @@ Instead of simply replicating the original project, I focused on:
 
 ---
 
+
 ## 📁 Simple Project Structure
+```
 RE-Shopping-Cart-Website/
 │── index.html
 │── css/
 │── js/
 │── assets/
 │── README.md
-
-
----
-
-## 💡 Highlights
-- Focused on **understanding and extending** an existing codebase
-- Demonstrates **core frontend development skills**
-- Shows ability to:
-  - Work with real project structure
-  - Handle UI logic without frameworks
-  - Apply Git in a practical workflow
-
+```
 ---
 
 ## 🔮 Future Improvements
